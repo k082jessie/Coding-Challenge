@@ -104,4 +104,4 @@ Only standard library was used, so to run this solution, you need only **Python 
 
 Go to directory where *main.py* and *test.txt* files stored.
 
-To run test, type ```main.py``` 
+To run test, type ```python3 main.py``` 
